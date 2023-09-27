@@ -7,7 +7,8 @@
 😄 Feel free to explore my portfolio, where you can find the challenges I tackled during my Front-End studies, along with repositories dedicated to my JavaScript learning endeavors.\
 
 👉🏼 I'd greatly appreciate it if you could take a moment to check them out and, if you find them valuable, don't hesitate to give them a Star!"⭐
-##
+
+### My GitHub Stats:
 <div>
   <a href="https://github.com/davidsondias">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=davidsondias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
