@@ -1,4 +1,12 @@
-# Hello World, I'm Davidson, be very welcome
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Davidson+Dias!;But+you+can+call+me+Davidson!;I´m+a+Front-End+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+💻 I embarked on my programming journey in August 2023 with a strong focus on Front-End development. 🚀 My aspiration is to become a skilled Front-End or even a versatile Full Stack Developer! 🙏🏼
+🌱 Currently, I boast a solid foundation in HTML, CSS, and React, and I'm diligently enhancing my proficiency in JavaScript ☕.
+✨ My educational background includes a degree in Information Systems from Estácio.
+😄 Feel free to explore my portfolio, where you can find the challenges I tackled during my Front-End studies, along with repositories dedicated to my JavaScript learning endeavors.
+👉🏼 I'd greatly appreciate it if you could take a moment to check them out and, if you find them valuable, don't hesitate to give them a star!" ⭐
+
+##
 
 <table>
   <a href="https://github.com/davidsondias">
@@ -13,9 +21,8 @@
 </table>
 
 <div> 
+  <a href="https://www.linkedin.com/in/davidson-dias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/c/InfoSevenTecnologia" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/davidsonfe /" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/leehxd_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto: davidsonfe7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/davidson-dias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
