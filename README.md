@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Davidson+Dias!;But+you+can+call+me+Davidson!;I´m+a+Front-End+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-💻 I embarked on my programming journey in August 2023 with a strong focus on Front-End development. 🚀 My aspiration is to become a skilled Front-End or even a versatile Full Stack Developer! 🙏🏼
+💻 I embarked on my programming journey in August 2023 with a strong focus on Front-End development.
+🚀 My aspiration is to become a skilled Front-End or even a versatile Full Stack Developer! 🙏🏼
 🌱 Currently, I boast a solid foundation in HTML, CSS, and React, and I'm diligently enhancing my proficiency in JavaScript ☕.
 ✨ My educational background includes a degree in Information Systems from Estácio.
 😄 Feel free to explore my portfolio, where you can find the challenges I tackled during my Front-End studies, along with repositories dedicated to my JavaScript learning endeavors.
@@ -12,9 +13,9 @@
   <a href="https://github.com/davidsondias">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=davidsondias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsondias&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="120" alt="JavaScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="120" alt="HTML5">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="120" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="120" alt="JavaScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="120" alt="React">
   <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
