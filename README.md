@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Davidson+Dias!;But+you+can+call+me+Davidson!;I´m+a+Full-Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-💻 I embarked on my programming journey in August 2023 with a strong focus on Front-End development.\
+💻 I embarked on my programming journey in August 2023 with a strong focus on Full-Stack development.\
 🚀 My aspiration is to become a skilled Front-End or even a versatile Full Stack Developer! 🙏🏼\
 🌱 Currently, I boast a solid foundation in HTML, CSS, and React, and I'm diligently enhancing my proficiency in JavaScript ☕.\
 ✨ My educational background includes a degree in Information Systems from Estácio.\
