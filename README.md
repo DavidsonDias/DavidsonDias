@@ -123,7 +123,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
+
+<div>
   <p>Click on the icons ☝🏻 to know more about them.</p>
 </div>
 
