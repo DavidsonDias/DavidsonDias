@@ -124,7 +124,6 @@
 />
 
 <br/>
-<br/>
   <p>Click on the icons ☝🏻 to know more about them.</p>
 </div>
 
