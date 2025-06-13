@@ -10,6 +10,7 @@
 
 ##
 ### Languages and Technologies:
+<div align="center">
 <img 
     align="left" 
     alt="HTML"
