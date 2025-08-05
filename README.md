@@ -51,7 +51,7 @@ Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suport
 ## 📂 Portfolio  
 
 🧩 Check out my portfolio with practical projects and challenges from my studies:  
-👉 [SevenDevX Portfolio](https://portfolio-drikadev.netlify.app/)  
+👉 [SevenDevX Portfolio](https://sevendevx.com/)  
 
 ---
 
