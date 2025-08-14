@@ -2,8 +2,8 @@
 
 ## 👨‍💻 About Me  
 
-Hi! I'm **Davidson Dias**, a Full Stack Developer with a strong focus on Front-End and a background in **Information Systems (Estácio)**.  
-I started my programming journey in **August 2023** and have been fully dedicated since then to becoming a **skilled Full Stack or Front-End Developer** 🚀.
+Hi! I'm **Davidson Dias**, a Full Stack Developer with a strong focus on Front-End in career transition, with a strong academic foundation in **Information Systems** and extensive professional experience in **Systems Analysis, Process Automation, and Data Analysis**.  
+My journey in programming began in **August 2023**, evolving from building simple HTML/CSS structures to developing **modern, responsive, and scalable web applications** with React, TypeScript, and Node.js. Dedicated since then to becoming a **skilled Full Stack or Front-End Developer** 🚀.
 
 From **early HTML/CSS structures to dynamic React and Node.js projects**, I'm building a solid foundation through self-study, courses, and practical projects.  
 My ambition is to deliver impactful solutions and beautiful interfaces through clean, scalable code.  
@@ -12,26 +12,27 @@ My ambition is to deliver impactful solutions and beautiful interfaces through c
 
 ## 🎓 Academic & Technical Background
 
-- 🎓 Bachelor's degree in **Information Systems** (Estácio)  
+- 🎓 **Bachelor's degree in Information Systems** (Estácio)  
+- 🎓 **Postgraduate Degrees** in Web Applications Development, Business Intelligence, and IT Project Management (Faceminas)
+- 📘 Currently pursuing an **MBA in Full Stack Development** (Faculdade Impacta – since April 2025)  
 - 💻 Studying Full Stack Development with emphasis on **JavaScript, React, Node.js, TypeScript and modern web tools**  
-- 📘 Currently enrolled in an **MBA in Full Stack Development** (Faculdade Impacta – since April 2025)  
 - 🧠 Preparing for real-world challenges with practical projects and freelance experiments  
+- 📚 Hands-on learning through **freelance projects, personal portfolio development, and open-source contributions**  
 
 ---
 
-## 👩‍💼 Professional Experience Before Tech  
+## 💼 Career Highlights  
 
-Before tech, I spent over **20 years working in administrative areas**, where I developed skills in:  
-**Customer Service**, **Executive Support**, **Process Management**, **Logistics**, and **Facilities**.  
-These experiences strengthened my **communication**, **organization**, and **problem-solving skills** — all of which I now apply in tech.
-
-Also, I had the chance to live in the **USA (2008)**, working as a **camp counselor**, improving my **English** and intercultural communication.  
+- **Front-End Developer – SevenDevX**: Development of modern, accessible, and responsive web interfaces with HTML5, CSS3, JavaScript, React, and Vue.js; API integration; SEO optimization; and UI/UX enhancements.  
+- **Tech Lead – S&I Automação**: Leadership of agile development teams, creation of KPIs, process definition, and project planning.  
+- **System Analyst – Verdemar & S&I Automação**: Support and implementation of ERP systems, database management (MySQL & Oracle), system testing, and process automation.  
+- **Data Analytics – RBR Soluções**: Business intelligence, dashboard creation, and strategic reporting for decision-making.   
 
 ---
 
 ## 🚀 Currently Working On
 
-- ✨ Building projects with React, JavaScript, TypeScript, Tailwind, Next.js  
+- ✨ Developing projects with React, JavaScript, TypeScript, Tailwind, Next.js  
 - ☁️ Learning about **Cloud Computing & AWS (IAM, EC2, S3, Lambda, RDS, VPC)**  
 - 📚 Documenting my AWS study journey here 👉 [Estudando AWS Cloud Practitioner](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner)  
 - 👨‍💼 Open to opportunities as a **Junior Developer** (Front-End or Full Stack), or **Cloud Intern/Analyst**
@@ -41,10 +42,10 @@ Also, I had the chance to live in the **USA (2008)**, working as a **camp counse
 ### 🔑 Habilidades
 
 **Tecnologia:**  
-AWS | Cloud Computing | HTML | CSS | JavaScript | React | Tailwind | Material UI | Git | Figma | UX/UI Design | Design Thinking | Metodologias Ágeis | Scrum  
+HTML5 | CSS3 | JavaScript | React | TypeScript | Node.js | Tailwind CSS | Material UI | AWS | MySQL | Git | Figma | UX/UI Design | Agile (Scrum, Kanban)  
 
-**Administrativas:**  
-Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suporte Executivo | Organização | Comunicação | Resolução de Problemas | Pacote Office | Inglês Avançado | Resiliência 
+**Core Strengths:**    
+Analytical Thinking | Problem-Solving | Team Leadership | Project Management | Customer Service | Intercultural Communication | Advanced English   
 
 ---
 
