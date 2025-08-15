@@ -75,7 +75,6 @@ Analytical Thinking | Problem-Solving | Team Leadership | Project Management | C
   <a href="https://www.w3schools.com/js/" target="_blank"><img align="center" alt="JavaScript" height="50" width="60" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="React" height="50" width="60" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></a>
   <a href="https://www.w3schools.com/typescript/" target="_blank"><img align="center" alt="TypeScript" height="50" width="60" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
-  <a href="https://www.w3schools.com/java/" target="_blank"><img align="center" alt="Java" height="50" width="60" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
   <br><br>
   <p>Click the icons ☝🏻 to learn more about each technology.</p>
 </div>
