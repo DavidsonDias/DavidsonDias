@@ -59,7 +59,7 @@ Creating software that solves real business problems.
 
 <p align="center">
 <a href="https://sevendevx.com">
-<img src="https://img.shields.io/badge/🌐_Website-SevenDevX-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_Website-SevenDevX-000?style=for-the-badge" />
 </a>
 
 <a href="https://davidsondias.vercel.app">
