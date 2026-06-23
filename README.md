@@ -1,30 +1,125 @@
 <div align="center">
 
-# 👋 Hello, I'm Davidson Dias
+# 👋 Hello, World! I'm Davidson Dias
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=0077B5&center=true&vCenter=true&width=1200&lines=Founder+%40+SevenDevX;Systems+Analyst;Full+Stack+Developer;Building+Scalable+SaaS+Products;Cloud+%7C+AI+%7C+Automation;Turning+Ideas+Into+Digital+Products;Engineering+Software+That+Creates+Business+Value" />
+
+## 🚀 Founder • Systems Analyst • Full Stack Developer
+
+> **Transforming ideas into scalable digital products through software engineering, cloud computing, artificial intelligence and automation.** 
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💼
+
+**Founder**
+
+Building the future with  
+**SevenDevX**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Focus**
+
+SaaS • Cloud • AI
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Specialty**
+
+Modern Full Stack Development
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌎
+
+**Mission**
+
+Creating software that solves real business problems.
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&center=true&vCenter=true&width=1200&lines=Hello+World%2C+I'm+Davidson+Dias!;Founder+of+SevenDevX;Full+Stack+Developer;Systems+Analyst+%26+Automation+Specialist;Building+Modern+Digital+Experiences;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Welcome+to+my+GitHub!" />
+<a href="https://sevendevx.com">
+<img src="https://img.shields.io/badge/🌐_Website-SevenDevX-111827?style=for-the-badge" />
+</a>
+
+<a href="https://davidsondias.vercel.app">
+<img src="https://img.shields.io/badge/💼_Portfolio-Online-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/davidson-dias/">
+<img src="https://img.shields.io/badge/💬_LinkedIn-Davidson_Dias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:contato@sevendevx.com">
+<img src="https://img.shields.io/badge/📫_Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Founder+of+SevenDevX;Systems+Analyst+%26+Automation+Specialist;Building+Modern+Digital+Experiences;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js" />
+<img src="https://komarev.com/ghpvc/?username=davidsondias&style=for-the-badge&color=2563EB" />
 
-### 🚀 Full Stack Developer • Founder @ SevenDevX • Systems Analyst
+</div>
 
-Building scalable applications, modern interfaces and digital solutions that create real business value.
+---
 
-<p>
-  <a href="https://davidsondias.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://sevendevx.com">
-    <img src="https://img.shields.io/badge/SevenDevX-111827?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/davidson-dias/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+# ⚡ Quick Facts
 
-<img src="https://komarev.com/ghpvc/?username=davidsondias&style=for-the-badge" />
+```yaml
+Name: Davidson Dias
+
+Role:
+  - Founder @ SevenDevX
+  - Systems Analyst
+  - Full Stack Developer
+
+Focus:
+  - SaaS Platforms
+  - Artificial Intelligence
+  - Cloud Computing
+  - Process Automation
+  - Modern Web Applications
+
+Currently:
+  - 🚀 Building scalable digital products
+  - ☁️ Studying Cloud Architecture
+  - 🤖 Creating AI-powered solutions
+  - 📚 Improving software architecture
+```
+
+---
+
+## 💡 Developer Philosophy
+
+> *"I don't just build software.*
+>
+> *I build digital products that solve real business problems, scale with confidence, and create lasting value."*
+
+---
+
+<div align="center">
+
+### 🚀 Building the Future with Code
+
+**Software Engineering • Cloud • AI • Automation • SaaS**
 
 </div>
 
